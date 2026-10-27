@@ -1,4 +1,4 @@
-# Shortfundly Campus Email Automation (Phase 2 — Final)
+# Shortfundly Campus Email Automation
 
 A Streamlit **admin dashboard** for collecting official college contacts, editing a proposal
 email template, sending personalised emails over SMTP, and tracking every message in SQLite.
