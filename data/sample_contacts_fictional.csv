@@ -1,0 +1,10 @@
+state,city,college_name,website,contact_person,department,email,source_url
+Sampleland,Exampleville,FICTIONAL Aurora Demo College of Arts,https://www.aurora-demo-college.example/,Dr. Asha Example,Department of Media Studies,media@aurora-demo-college.example,https://www.aurora-demo-college.example/departments/media
+Sampleland,Exampleville,FICTIONAL Bluebell Demo Institute of Technology,https://www.bluebell-demo.example/,Prof. Ravi Sample,Placement and Outreach Cell,outreach@bluebell-demo.example,https://www.bluebell-demo.example/contact
+Sampleland,Testpur,FICTIONAL Cedar Demo Women's College,https://cedar-demo-womens.example/,Ms. Meera Placeholder,Film Club,filmclub@cedar-demo-womens.example,https://cedar-demo-womens.example/clubs
+Sampleland,Testpur,FICTIONAL Delta Demo Commerce College,https://www.delta-demo-commerce.example/,,Office of the Principal,principal@delta-demo-commerce.example,https://www.delta-demo-commerce.example/about
+Sampleland,Mockton,FICTIONAL Evergreen Demo Science College,https://evergreen-demo-science.example/,Dr. Kiran Fakename,Student Affairs,studentaffairs@evergreen-demo-science.example,https://evergreen-demo-science.example/student-affairs
+Sampleland,Mockton,FICTIONAL Duplicate Email Demo College,https://www.dupe-demo.example/,Dr. Same Email,Admin,media@aurora-demo-college.example,https://www.dupe-demo.example/admin
+Sampleland,Mockton,FICTIONAL Broken Email Demo College,https://www.broken-demo.example/,Mr. No Email,Admin,not-an-email,https://www.broken-demo.example/admin
+Sampleland,,FICTIONAL Missing City Demo College,https://www.missing-city-demo.example/,Ms. No City,Admin,admin@missing-city-demo.example,https://www.missing-city-demo.example/admin
+Sampleland,Exampleville,FICTIONAL Aurora Demo College of Arts,https://www.aurora-demo-college.example/,Prof. Second Contact,Department of Film Club,filmclub@aurora-demo-college.example,https://www.aurora-demo-college.example/clubs

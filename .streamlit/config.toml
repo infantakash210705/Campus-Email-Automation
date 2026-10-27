@@ -1,0 +1,11 @@
+# Streamlit theme for the Shortfundly Campus Email Automation admin panel.
+# Purely cosmetic — safe to edit or delete. Does not affect any app logic.
+[theme]
+primaryColor = "#E50914"            # Shortfundly-style cinematic red (buttons, accents)
+backgroundColor = "#0E1117"         # main dark background
+secondaryBackgroundColor = "#1A1D24" # cards, sidebar, inputs
+textColor = "#FAFAFA"
+font = "sans serif"
+
+[server]
+headless = true
